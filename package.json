@@ -1,0 +1,10 @@
+{
+  "name": "synthetic-delta-stable",
+  "version": "1.0.0",
+  "description": "Delta-neutral synthetic asset engine",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "@chainlink/contracts": "^0.8.0",
+    "hardhat": "^2.19.0"
+  }
+}
